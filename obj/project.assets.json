@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Elizabeth\\.nuget\\packages\\": {}
+    "C:\\Users\\lorenag\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Elizabeth\\source\\repos\\Funciones\\Funciones.csproj",
+      "projectUniqueName": "C:\\Aplicaciones\\Consola\\RepasoCsharp\\Funciones\\Funciones.csproj",
       "projectName": "Funciones",
-      "projectPath": "C:\\Users\\Elizabeth\\source\\repos\\Funciones\\Funciones.csproj",
-      "packagesPath": "C:\\Users\\Elizabeth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Elizabeth\\source\\repos\\Funciones\\obj\\",
+      "projectPath": "C:\\Aplicaciones\\Consola\\RepasoCsharp\\Funciones\\Funciones.csproj",
+      "packagesPath": "C:\\Users\\lorenag\\.nuget\\packages\\",
+      "outputPath": "C:\\Aplicaciones\\Consola\\RepasoCsharp\\Funciones\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Elizabeth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lorenag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
