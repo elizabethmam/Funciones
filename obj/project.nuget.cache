@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mXDAbsncFET5cC4Kd/aAnTvN7GFAtYRFzCPCu827c4MVwZJ5B+03VvFGCRgCCMjG/E8FL3PDrda9r9w2NtO97A==",
+  "dgSpecHash": "JcTX50LEzIeiGPjD65tyLcRu8jdrX/5RgEwsOIRY2u07cnk28zu5Pp0LrLwzfhw+1MK2EUg7tV2LWjfKKLNdyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Elizabeth\\source\\repos\\Funciones\\Funciones.csproj",
+  "projectFilePath": "C:\\Aplicaciones\\Consola\\RepasoCsharp\\Funciones\\Funciones.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
